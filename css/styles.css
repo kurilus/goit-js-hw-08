@@ -11,11 +11,6 @@
     list-style: none;
 }
 
-.gallery-item:hover {
-    cursor: pointer;
-    
-}
-
 .gallery-item img {
     width: 100%;
     height: auto;
